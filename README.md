@@ -28,4 +28,4 @@ python main.py
 The challenge was to check for a bunch of classifiers which performs better.
 Here I have used `matplotlib` to make a horizational bar graph to compare different classifiers in terms of accuracy.
 
-![alt text](https://github.com/arunavsk/Gender-Classification/blob/master/src/img/result.png "Logo Title Text 1")
+![Result](https://github.com/arunavsk/Gender-Classification/blob/master/src/img/result.png "Bar Graph 1")
