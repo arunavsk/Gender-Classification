@@ -10,6 +10,6 @@ numpy
 matplotlib
 
 ## Usage
-'''
+```
 python main.py
-'''
+```
