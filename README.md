@@ -6,9 +6,9 @@ Part of Siraj Raval's weekly programming challenge.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/T5pRlIbr6gg/0.jpg)](http://www.youtube.com/watch?v=T5pRlIbr6gg)
 ## Getting Started
-I would recommend using [Anacoda](https://www.continuum.io/what-is-anaconda) for this if you are on windows as all packages/dependencies gets installed.
+I would recommend using [Anacoda](https://www.continuum.io/what-is-anaconda) for this if you are on Windows as all packages/dependencies gets installed.
 
-On linux/Mac please follow Siraj's [tutorial video](https://www.youtube.com/watch?v=T5pRlIbr6gg) to get started.
+On Linux/Mac, please follow Siraj's [tutorial video](https://www.youtube.com/watch?v=T5pRlIbr6gg) to get started.
 
 ### Dependencies
 * sk-learn
@@ -26,6 +26,6 @@ python main.py
 ```
 ## Result
 The challenge was to check for a bunch of classifiers which performs better.
-Here I have used `matplotlib` to make a horizational bar graph to compare different classifiers in terms of accuracy.
+Here I have used `matplotlib` to plot a horizational bar graph and compare different classifiers in terms of accuracy.
 
 ![Result](https://github.com/arunavsk/Gender-Classification/blob/master/src/img/result.png "Bar Graph 1")
