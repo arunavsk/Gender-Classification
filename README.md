@@ -6,12 +6,12 @@ Part of Siraj Raval's weekly programming challenge.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/T5pRlIbr6gg/0.jpg)](http://www.youtube.com/watch?v=T5pRlIbr6gg)
 
-## Dependencies
+# Dependencies
 * sk-learn
 * numpy
 * matplotlib
 
-## Usage
+# Usage
 ```
 python main.py
 ```
